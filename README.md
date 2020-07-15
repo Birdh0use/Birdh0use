@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ... Walmart has a lower acceptance rate than Harvard.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Birdh0use&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=00ABA8">
+<img src="https://github-readme-stats.vercel.app/api?username=Birdh0use&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=002E2D">
