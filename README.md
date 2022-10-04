@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Pwncat For Red_Team_Operations.
 - 👯 I’m looking to collaborate on ... Anything Fun! 😎
 - 💬 Ask me about ... Anything Pentesting (Web, Mobile) | Networking | Secure Coding Techniques
-- 📫 How to reach me: ... zetszets@protonmail.com | @ze_ts_ on Twitter |
+- 📫 How to reach me: ... zetszets@protonmail.com | 
 - 😄 Pronouns: ...Who, me??
 - ⚡ Fun fact: ... Walmart has a lower acceptance rate than Harvard.
 
